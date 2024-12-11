@@ -7,15 +7,22 @@ Super Mario Bros. Extreme Adventure is a NSMBW fan-made in developement by The T
 <a href="https://www.youtube.com/@TeamAlternative2023/videos">Youtube  |  </a>
 <a href="https://teamalternative2023.github.io/TheTeamAlternative.github.io/">Website</a>
 
-## The Staff
-- *Mone*: **Project Director**, **World 3 Maker**, **Code Compiler**, **Web Developer** and **Custom Music Importer**
-- *Isaac*: **Music Composer**
-- *Lavrenzy*: **World 1** and **World 2** Maker, **Russian Game Translation** (*Only on Full Version*), **Cutscene Director** and **SFX Recorder**
-- *Synel*: **Game Features** and **Sprite Programmer**
-- *Wakanameko*: **Japanese Game Translation** (*Only on Full Version*) and **Boss Programmer** (*Only on Full Version*)
-- *Jacopo Plays*: **Beta Tester** and **Layout Designer**
-- *Bafio*: **Cutscene Maker**
-- *aqua21*: **Web Developer**
+# The Staff
+## Level Making
+- Mone, Lavrenzy, mrmile, Zementblock (Helper)
+## Modelling
+- B. Bones Johnson
+## Custom Music
+- Ri0GenMusic, The Captain
+## Programming
+- Synel, Nin0, Mandy, Wakanameko
+## Beta Testing
+- Iggy3434, Jacopo Plays
+## Graphics
+*Missing..*, If you would like to apply for the team go there! https://forms.gle/AePDyd8roXHSsqXt8
+# Special Thanks
+- B1 Gaming, Kirblue, Meatball132, Nin0, Microtransagolor, Danster64, hayden, Mandy, Synel, Isaac, CLF78, Purps, RedStoneMatt, Walid1443
+
 
 
 
